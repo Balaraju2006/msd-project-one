@@ -166,7 +166,7 @@ Voice Command Search and AR Car Preview features.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/car-rental-system.git
+git clone [https://github.com/yourusername/car-rental-system.git](https://github.com/Balaraju2006/msd-project-one)
 
 
 Navigate to the project directory:
